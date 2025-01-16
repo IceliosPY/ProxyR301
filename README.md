@@ -9,5 +9,3 @@ et taper ftp -d [ip] [port].
 6. Le serveur demande ensuite un mdp et vous pouvez taper ce que vous voulez.
 7. Ensuite notre but a été de récupérer les fichiers du serveur donc dans la console cliente nous executons la commande ls
 8. Le proxy fait ensuite le travail et transfert les fichiers du serveur.
-
-Le capacité de gérer plusieurs clients est fait en utilisant des processus fils avec la fonction fork()
